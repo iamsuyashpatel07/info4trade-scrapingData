@@ -18,9 +18,13 @@
 
 ## npm socket.io
 
-# Visualization How it will work
+# Visualization How it will work !!!
 
-# client-side will take input of url and it will send to server-side and server-side will fetch data and will be send server-side and it will be displayed to client.
+### client will give input of url
+### url will be send to server-side 
+### server-side will fetch data
+### data will be sent back to client side 
+### the data will be displayed to client.
 
 ```javascript
 //SERVER SIDE
